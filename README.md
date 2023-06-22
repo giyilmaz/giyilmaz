@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🐣
+##  
+## I am a biomedical engineer /  scientist
+## I'm currently developing methods and pipelines for analyzing biosignals 
 
 <!--
 **giyilmaz/giyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
